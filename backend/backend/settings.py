@@ -152,5 +152,5 @@ CORS_ALLOWED_ORIGINS = [
     "https://86685ce9-3689-4a6a-bcd7-faa20cbf3202.e1-us-east-azure.choreoapps.dev"
 ]
 
-CORS_ALLOWED_ALL_ORIGINS = True
+# CORS_ALLOWED_ALL_ORIGINS = True
 CORS_ALLOWED_CREDENTIALS = True
